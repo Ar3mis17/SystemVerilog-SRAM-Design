@@ -1,6 +1,6 @@
-# SystemVerilog SRAM Design - Assignment 2
+# SystemVerilog SRAM Design
 
-This repository contains the SystemVerilog implementation and testbenches for Assignment 2 (SRAM design and banking).
+This repository contains SystemVerilog implementations and testbenches for SRAM designs, including single-port SRAM and multi-bank SRAM architectures.
 
 ## Files Included (`.sv`)
 - `assignment2/sram_64kb.sv` - 64KB SRAM design module.
