@@ -78,6 +78,7 @@ PASS: address=1023 data=88888888
 SRAM 64KB TEST PASS
 Simulation complete via $finish
 ```
+<img width="940" height="413" alt="image" src="https://github.com/user-attachments/assets/85e19627-fbf5-422b-b915-d920732307df" />
 
 ### Four-bank SRAM
 
@@ -95,6 +96,7 @@ PASS: bank=3 data=44444444
 FOUR-BANK SRAM TEST PASS
 Simulation complete via $finish
 ```
+<img width="940" height="416" alt="image" src="https://github.com/user-attachments/assets/d83e2485-6d4d-4ea9-a8cd-e951bc6e1fa3" />
 
 ## Design Notes
 
